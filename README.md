@@ -1,5 +1,12 @@
 # Fyle Frontend Challenge
 
+## Image
+
+![1](https://github.com/27manavgandhi/fyle-internship-challenge-23/assets/77005766/db796cf8-1759-4016-8599-3468fafb232b)
+
+![2](https://github.com/27manavgandhi/fyle-internship-challenge-23/assets/77005766/75f57f50-060f-43df-834a-c87eee190f46)
+
+
 ## Who is this for?
 
 This challenge is meant for candidates who wish to intern at Fyle and work with our engineering team. The candidate should be able to commit to at least 6 months of dedicated time for internship.
